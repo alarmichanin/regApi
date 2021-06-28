@@ -2,10 +2,10 @@
 Registration and authorization for users created in API. For authorized users, information will be shown about the course, BTC (regarding the hyrvnia)
 
 
-## To install all modules, type the following text below.
+## To install all modules, type the following text below:
 **npm install**
 
-## To start a server type the following command.
+## To start a server type the following command:
 **npm run server**
 
 
@@ -16,12 +16,12 @@ Registration and authorization for users created in API. For authorized users, i
 
 http://localhost:5000/user/login  - to login ⭐
 
-http://localhost:5000/user/create - to create an account/ to create a new user ⭐
+http://localhost:5000/user/create - to create an account/to create a new user ⭐
 
 
 ### In this case, look at the course with direct access at the following link:
 
-http://localhost:5000/btcRate  - for looking at course (but you have to be authorized) ⭐
+http://localhost:5000/btcRate  - Overview of the course (Authorization is required) ⭐
 
 
-#### If the user was created and logined sucsesfully, he will get an information about course of BTC in UAH.
+#### If the user created and logged in sucsesfully, the individual will get information about a course on BitCoin in UAH.
