@@ -1,27 +1,27 @@
 # regApi
-Registration and authorization of users created in this API. For authorized users will be show info about the course of Btc (regarding the hryvnia)
+Registration and authorization for users created in API. For authorized users, information will be shown about the course, BTC (regarding the hyrvnia)
 
 
-## For install all modules you need to use. 👀
+## To install all modules, type this. 👀
 **npm install**
 
-## For starting server you have to write. 👀
+## To start a server type the following command. 👀
 **npm run server**
 
 
 
 
-### If you start your server at locallhost for contact with login/create 
+### If you start your server at locallhost (local server) sign in/sign up
 ### just sent a POST request to the next links :
 
-http://localhost:5000/user/login  - for login user ⭐
+http://localhost:5000/user/login  - to login user ⭐
 
-http://localhost:5000/user/create - for create new user ⭐
+http://localhost:5000/user/create - to create an account ⭐
 
 
-### In this case you can look at the course with directly way
+### In this case you can look at the course with directly access
 
 http://localhost:5000/btcRate  - for looking at course (but you have to be authorized) ⭐
 
 
-#### If user was created and logined sucsesfully, he will get an information about course of Btc in Uah. 👋
+#### If the user was created and logined sucsesfully, he will get an information about course of Btc in Uah. 👋
