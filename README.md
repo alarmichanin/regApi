@@ -24,4 +24,4 @@ http://localhost:5000/user/create - to create an account/to create a new user ‚≠
 http://localhost:5000/btcRate  - Overview of the course (Authorization is required) ‚≠ê
 
 
-#### If the user created and logged in sucsesfully, the individual will get information about a course on BitCoin in UAH.
+#### If the user created and logged in successfully, the individual will get information about a course on BitCoin in UAH.
